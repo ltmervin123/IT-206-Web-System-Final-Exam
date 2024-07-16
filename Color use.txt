@@ -1,0 +1,4 @@
+Red #FF4C4C
+Black #222831
+White aliceblue
+Blue #478CCF
